@@ -1,0 +1,19 @@
+﻿{
+  "assembly": [
+    "LayDateCellType.dll"
+  ],
+  "javascript": [
+    "Resources\\LayDateCellType.js",
+    "Resources\\laydate.js"
+  ],
+  "css": [
+    "Resources\\theme\\default\\laydate.css"
+  ],
+  "image": "Resources\\LayDateLogo.png",
+  "description": "该插件支持三种输入模式：日期，时间及日期&时间，同时支持默认值设置和绑定值设置。",
+  "name": "Lay日期",
+  "pluginType": "cellType",
+  "guid": "8c544fc4-7b9d-44c0-8753-52ebbba07dd9",
+  "version": "1.0.0.0",
+  "dependenceVersion": "3.0.200.0"
+}
