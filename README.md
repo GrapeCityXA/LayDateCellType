@@ -1,6 +1,6 @@
 ### 插件打包下载
-活字格Lay日期选择插件下载：https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48866
-活字格官网：https://www.grapecity.com.cn/solutions/huozige
+- 活字格Lay日期选择插件下载：https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48866
+- 活字格官网：https://www.grapecity.com.cn/solutions/huozige
 
 ### LayDateCellType
 功能：可快速选择日期，时间；并且支持默认值设置。
